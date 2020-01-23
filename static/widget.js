@@ -1,5 +1,6 @@
 (function() {
   'use strict';
+  console.warn(`Le widget en grève a migré vers https://widget-engreve.onestla.tech.\nAucune nouvelle version ne sera publiée sur noelmace.github.io.`)
   var DOM_ID = 'DIGITAL_STRIKE';
   var CLOSED_COOKIE = '_DIGITAL_STRIKE_WIDGET_CLOSED_';
   var NOW = new Date().getTime();
